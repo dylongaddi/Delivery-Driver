@@ -1,5 +1,5 @@
 # Delivery-Driver
-First sample 2D project in unity. 
+First sample 2D project in unity. Link here https://dylongaddi.itch.io/delivery-driver-sample-project?secret=KyHKNWvRT5JPt11RCzPrfFv4Wo
 ## Features
 1. Car that can move with WASD keys
 2. Camera follows car's movement
